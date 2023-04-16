@@ -1,41 +1,58 @@
 <h1 align="center">Hi 👋, I'm Ashan Salinda</h1>
-<h3 align="center">Undergraduate at University of Moratuwa.</h3>
+<h4 align="center">Undergraduate at University of Moratuwa.</h4><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashansalinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashansalinda" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ashansalinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashansalinda" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashansalinda" alt="ashansalinda" /></a> </p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashansalinda&theme=gruvbox" alt="ashansalinda" /></p><br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashansalinda5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashansalinda5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashansalinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashansalinda" height="30" width="40" /></a>
-<a href="https://fb.com/ashan.salinda.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashan.salinda.58" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashansalinda5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashansalinda5" height="30" width="40" /></a>
-</p>
+<h2>Connect with me:</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://ashansalinda.me" target="blank">
+          <img align="center" src="images/ashan.png"
+          alt="ashansalinda" height="30" width="40" /></a>&nbsp;
+      <a href="https://twitter.com/ashansalinda5" target="blank">
+          <img align="center" src="images/twitter.svg"
+          alt="twitter" height="30" width="40" /></a>&nbsp;
+      <a href="https://linkedin.com/in/ashansalinda" target="blank">
+          <img align="center" src="images/linked-in.svg"
+          alt="linkedin" height="30" width="40" /></a>&nbsp;
+      <a href="https://facebook.com/ashan.salinda.58" target="blank">
+          <img align="center" src="images/facebook.svg"
+          alt="facebook" height="30" width="40" /></a>&nbsp;&nbsp;
+      <a href="mailto:ashansalinda5@gmail.com" target="blank">
+          <img align="center" src="images/gmail.png"
+          alt="gmail" height="30" width="30" /></a>&nbsp;
+      <a href="https://www.hackerrank.com/ashansalinda5" target="blank">
+          <img align="center" src="images/hackerrank.svg"
+          alt="hackerrank" height="30" width="40" /></a> 
+                
+<img align="right"  src="images/coding.gif" alt="coding.gif" width="300px"/>
+<br><br><br><br><br><br><br><br><br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h2 align="left">Languages and Tools:</h2>
+<br><br>
+         <table align="center">
+                <tr>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/arduino.svg" alt="arduino" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/Blender.png" alt="blender" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/bootstrap.svg" alt="bootstrap" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/c.svg" alt="C language" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/css3.svg" alt="css3" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                </tr><tr>    
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/figma.svg" alt="figma" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img style="padding: 10px;"  src="images/firebase.svg" alt="firebase" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/git.svg" alt="git" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/html5.svg" alt="html5" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/java.svg" alt="java" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                </tr><tr>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/javascript.svg" alt="javascript" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/mysql.svg" alt="mysql" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/python.svg" alt="python" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/react.svg" alt="react" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                        <td>&nbsp;&nbsp;&nbsp;<img src="images/springio.svg" alt="spring" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
+                </tr>
+        </table><br>
+        
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /> </p><br><br>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashansalinda&show_icons=true&locale=en" alt="ashansalinda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashansalinda&" alt="ashansalinda" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=tokyonight&show_icons=true&locale=en" alt="ashansalinda"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashansalinda&theme=tokyonight" alt="ashansalinda" /></p>
