@@ -23,7 +23,7 @@
           alt="gmail" height="30" width="30" /></a>&nbsp;
       <a href="https://www.hackerrank.com/ashansalinda5" target="blank">
           <img align="center" src="images/hackerrank.svg"
-          alt="hackerrank" height="30" width="40" /></a> 
+          alt="hackerrank" height="50" width="40" /></a> 
                 
 <img align="right"  src="images/coding.gif" alt="coding.gif" width="300px"/>
 <br><br><br><br><br><br><br><br><br><br>
