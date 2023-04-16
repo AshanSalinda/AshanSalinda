@@ -26,7 +26,7 @@
           alt="hackerrank" height="50" width="40" /></a><br><br>
                 
 <img align="right"  src="images/coding.gif" alt="coding.gif" width="300px"/>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="left">Languages and Tools:</h2><br><br>
 
