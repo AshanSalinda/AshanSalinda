@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashan Salinda</h1>
-<h4 align="center">Undergraduate at University of Moratuwa.</h4><br>
+<h4 align="center">Undergraduate at University of Moratuwa.</h4><br><br><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ashansalinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashansalinda" />
 
@@ -8,7 +8,7 @@
 <h2>Connect with me:</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://ashansalinda.me" target="blank">
           <img align="center" src="images/ashan.png"
-          alt="ashansalinda" height="30" width="40" /></a>&nbsp;
+          alt="ashansalinda" height="35" width="35" /></a>&nbsp;
       <a href="https://twitter.com/ashansalinda5" target="blank">
           <img align="center" src="images/twitter.svg"
           alt="twitter" height="30" width="40" /></a>&nbsp;
@@ -28,31 +28,49 @@
 <img align="right"  src="images/coding.gif" alt="coding.gif" width="300px"/>
 <br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="left">Languages and Tools:</h2>
-<br><br>
-         <table align="center">
-                <tr>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/arduino.svg" alt="arduino" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/Blender.png" alt="blender" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/bootstrap.svg" alt="bootstrap" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/c.svg" alt="C language" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/css3.svg" alt="css3" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                </tr><tr>    
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/figma.svg" alt="figma" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img style="padding: 10px;"  src="images/firebase.svg" alt="firebase" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/git.svg" alt="git" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/html5.svg" alt="html5" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/java.svg" alt="java" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                </tr><tr>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/javascript.svg" alt="javascript" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/mysql.svg" alt="mysql" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/python.svg" alt="python" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/react.svg" alt="react" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                        <td>&nbsp;&nbsp;&nbsp;<img src="images/springio.svg" alt="spring" width="40" height="40" >&nbsp;&nbsp;&nbsp;</td>
-                </tr>
-        </table><br>
+<h2 align="left">Languages and Tools:</h2><br><br>
+
+<p align="left">         
+      <img src="images/arduino.svg" alt="arduino" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/Blender.png" alt="blender" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/bootstrap.svg" alt="bootstrap" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/c.svg" alt="C language" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/css3.svg" alt="css3" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p><br>
+
+<p align="center">
+      <img src="images/figma.svg" alt="figma" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/firebase.svg" alt="firebase" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/git.svg" alt="git" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/html5.svg" alt="html5" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/java.svg" alt="java" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p><br>
+
+<p align="right">
+      <img src="images/javascript.svg" alt="javascript" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/mysql.svg" alt="mysql" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/python.svg" alt="python" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/react.svg" alt="react" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/springio.svg" alt="spring" width="40" height="40">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p><br><br>        
         
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /> </p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=tokyonight&show_icons=true&locale=en" alt="ashansalinda"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashansalinda&theme=tokyonight" alt="ashansalinda" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=tokyonight&show_icons=true&locale=en" alt="ashansalinda"/></p><br>
+
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashansalinda&theme=tokyonight" alt="ashansalinda" /></p>
