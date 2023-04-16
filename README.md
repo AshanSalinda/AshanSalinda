@@ -5,7 +5,7 @@
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashansalinda&theme=gruvbox" alt="ashansalinda" /></p><br><br>
 
-<h2>Connect with me:</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2>Connect with me:</h2><br>&nbsp;&nbsp;&nbsp;
       <a href="https://ashansalinda.me" target="blank">
           <img align="center" src="images/ashan.png"
           alt="ashansalinda" height="35" width="35" /></a>&nbsp;
@@ -69,8 +69,8 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p><br><br>        
         
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /> </p><br><br>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=transparent&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /> </p><br><br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=tokyonight&show_icons=true&locale=en" alt="ashansalinda"/></p><br>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=transparent&show_icons=true&locale=en" alt="ashansalinda"/></p><br>
 
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashansalinda&theme=tokyonight" alt="ashansalinda" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashansalinda&theme=transparent" alt="ashansalinda" /></p>
