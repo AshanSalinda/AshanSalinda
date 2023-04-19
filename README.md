@@ -21,7 +21,7 @@
       <a href="mailto:ashansalinda5@gmail.com" target="blank">
           <img align="center" src="images/gmail.png"
           alt="gmail" height="30" width="30" /></a>&nbsp;
-      <a href="https://www.hackerrank.com/ashansalinda5" target="blank">
+      <a href="https://www.hackerrank.com/ashansalinda" target="blank">
           <img align="center" src="images/hackerrank.svg"
           alt="hackerrank" height="50" width="40" /></a><br><br>
                 
