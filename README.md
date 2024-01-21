@@ -6,7 +6,7 @@
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashansalinda&theme=gruvbox" alt="ashansalinda" /></p><br><br>
 
 <h2>Connect with me:</h2><br>&nbsp;&nbsp;&nbsp;
-      <a href="https://ashansalinda.me" target="blank">
+      <a href="https://ashansalinda.github.io/web" target="blank">
           <img align="center" src="images/ashan.png"
           alt="ashansalinda" height="35" width="35" /></a>&nbsp;
       <a href="https://twitter.com/ashansalinda5" target="blank">
