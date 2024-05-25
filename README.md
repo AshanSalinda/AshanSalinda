@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there! I'm Ashan Salinda</h1>
 <h4 align="center">A passionate developer and tech enthusiast.</h4><br>
-<p> I love creating innovative solutions and working on challenging projects, Here's a bit about me:</p>
+<p>I love creating innovative solutions and working on challenging projects. Here's a bit about me:</p>
 
-<table>
+<table style="border-collapse: collapse;">
       <tr>
             <td>🌐 <b>Web Developer:</b></td>
             <td>Experienced in HTML, CSS, JavaScript, and modern frameworks like React.js.</td>
@@ -25,15 +25,6 @@
       </tr>
 </table>
 
- 
-
- 
-
- 
-
- 
-
- 
 <br><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ashansalinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashansalinda" />
@@ -60,7 +51,7 @@
           <img align="center" src="images/hackerrank.svg"
           alt="hackerrank" height="50" width="40" /></a><br><br>
                 
-<img align="right"  src="images/coding.gif" alt="coding.gif" width="300px"/>
+<img align="right" src="images/coding.gif" alt="coding.gif" width="300px"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="left">Languages and Tools:</h2><br><br>
@@ -104,7 +95,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p><br><br>        
         
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=transparent&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /> </p><br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=transparent&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /> </p><br><br>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=transparent&show_icons=true&locale=en" alt="ashansalinda"/></p><br>
 
