@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hi there! I'm Ashan Salinda</h1>
-<h4 align="center">A passionate developer and tech enthusiast.</h4><br>
-<p>I love creating innovative solutions and working on challenging projects. Here's a bit about me:</p>
+<h1 align="center">👋 Hi there!, I'm Ashan Salinda</h1>
+<h4 align="center"><i>- A passionate developer and tech enthusiast. -</i></h4><br>
 
-***🌐 Web Developer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Experienced in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js.
 
-***📱 Mobile Developer:*** &ensp;&ensp;&ensp;Skilled in building responsive and intuitive mobile applications using Flutter and React Native.
+***🌐 &ensp;Web Developer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Experienced in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js.
 
-***🛠️ Backend Developer:***&ensp;&ensp;Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
+***📱 &ensp;Mobile Developer:*** &ensp;&ensp;&ensp;Skilled in building responsive and intuitive mobile applications using Flutter and React Native.
 
-***💡 Problem Solver:*** &ensp;&ensp;&ensp;&ensp;&ensp;Enjoy solving complex problems and optimizing performance.
+***🛠️ &ensp;Backend Developer:***&ensp;&ensp;Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
 
-***📚 Lifelong Learner:*** &ensp;&ensp;&ensp;&ensp;Continuously learning and exploring new technologies to stay updated.
+***💡 &ensp;Problem Solver:*** &ensp;&ensp;&ensp;&ensp;&ensp;Enjoy solving complex problems and optimizing performance.
+
+***📚 &ensp;Lifelong Learner:*** &ensp;&ensp;&ensp;&ensp;Continuously learning and exploring new technologies to stay updated.
 
 <br><br><br>
 
