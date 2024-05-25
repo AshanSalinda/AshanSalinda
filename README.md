@@ -1,16 +1,39 @@
 <h1 align="center">👋 Hi there! I'm Ashan Salinda</h1>
 <h4 align="center">A passionate developer and tech enthusiast.</h4><br>
-<p> I love creating innovative solutions and working on challenging projects, Here's a bit about me:
+<p> I love creating innovative solutions and working on challenging projects, Here's a bit about me:</p>
 
-🌐 <b>Web Developer:</b> Experienced in HTML, CSS, JavaScript, and modern frameworks like React.js.
+<table>
+      <tr>
+            <td>🌐 <b>Web Developer:</b></td>
+            <td>Experienced in HTML, CSS, JavaScript, and modern frameworks like React.js.</td>
+      </tr>
+      <tr>
+            <td>📱 <b>Mobile Developer:</b></td>
+            <td>Skilled in building responsive and intuitive mobile applications using React Native.</td>
+      </tr>
+      <tr>
+            <td>🛠️ <b>Backend Developer:</b></td>
+            <td>Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.</td>
+      </tr>
+      <tr>
+            <td>💡 <b>Problem Solver:</b></td>
+            <td>Enjoy solving complex problems and optimizing performance.</td>
+      </tr>
+      <tr>
+            <td>📚 <b>Lifelong Learner:</b></td>
+            <td>Continuously learning and exploring new technologies to stay updated.</td>
+      </tr>
+</table>
 
-📱 <b>Mobile Developer:</b> Skilled in building responsive and intuitive mobile applications using React Native.
+ 
 
-🛠️ <b>Backend Developer:</b> Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
+ 
 
-💡 <b>Problem Solver:</b> Enjoy solving complex problems and optimizing performance.
+ 
 
-📚 <b>Lifelong Learner:</b> Continuously learning and exploring new technologies to stay updated.</p>
+ 
+
+ 
 <br><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ashansalinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashansalinda" />
