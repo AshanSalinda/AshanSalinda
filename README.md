@@ -66,8 +66,8 @@
           <img align="center" src="images/ashan.png"
           alt="ashansalinda" height="35" width="35" /></a>&nbsp;
       <a href="https://twitter.com/ashansalinda5" target="blank">
-          <img align="center" src="images/twitter.svg"
-          alt="twitter" height="30" width="40" /></a>&nbsp;
+          <img align="center" src="images/x.png"
+          alt="twitter" height="35" width="40" /></a>&nbsp;
       <a href="https://linkedin.com/in/ashansalinda" target="blank">
           <img align="center" src="images/linked-in.svg"
           alt="linkedin" height="30" width="40" /></a>&nbsp;
