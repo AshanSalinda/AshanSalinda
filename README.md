@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashan Salinda</h1>
-<h4 align="center">Undergraduate at University of Moratuwa.</h4><br><br><br><br>
+<h4 align="center">Undergraduate at University of Moratuwa.</h4><br>
+<p>👋 Hi there! I'm Ashan Salinda, a passionate developer and tech enthusiast. I love creating innovative solutions and working on challenging projects. Here's a bit about me:
+
+🌐 Web Developer: Experienced in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js.
+
+📱 Mobile Developer: Skilled in building responsive and intuitive mobile applications using Flutter and React Native.
+
+🛠️ Backend Developer: Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
+
+💡 Problem Solver: Enjoy solving complex problems and optimizing performance.
+
+📚 Lifelong Learner: Continuously learning and exploring new technologies to stay updated.</p>
+<br><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ashansalinda&label=Profile%20views&color=0e75b6&style=flat" alt="ashansalinda" />
 
