@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there!, I'm Ashan Salinda</h1>
-<h4 align="center"><i>- A passionate developer and tech enthusiast. -</i></h4><br>
+<p align="center"><i>- A passionate developer and tech enthusiast -</i></p><br>
 
 <p align="center"><img src="images/coding.gif" alt="coding.gif" width="300px"/></p>
 <br>
