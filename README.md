@@ -5,9 +5,9 @@
 <br>
 
 
-***🌐 &ensp;Web Developer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Experienced in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js.
+***🌐 &ensp;Web Developer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Experienced in HTML, CSS, JavaScript, and modern frameworks like React.js.
 
-***📱 &ensp;Mobile Developer:*** &ensp;&ensp;&ensp;Skilled in building responsive and intuitive mobile applications using Flutter and React Native.
+***📱 &ensp;Mobile Developer:*** &ensp;&ensp;&ensp;Skilled in building responsive and intuitive mobile applications using React Native.
 
 ***🛠️ &ensp;Backend Developer:***&ensp;&ensp;Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
 
