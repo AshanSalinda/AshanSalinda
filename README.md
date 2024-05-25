@@ -2,28 +2,15 @@
 <h4 align="center">A passionate developer and tech enthusiast.</h4><br>
 <p>I love creating innovative solutions and working on challenging projects. Here's a bit about me:</p>
 
-<table style="border-collapse: collapse;">
-      <tr>
-            <td>🌐 <b>Web Developer:</b></td>
-            <td>Experienced in HTML, CSS, JavaScript, and modern frameworks like React.js.</td>
-      </tr>
-      <tr>
-            <td>📱 <b>Mobile Developer:</b></td>
-            <td>Skilled in building responsive and intuitive mobile applications using React Native.</td>
-      </tr>
-      <tr>
-            <td>🛠️ <b>Backend Developer:</b></td>
-            <td>Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.</td>
-      </tr>
-      <tr>
-            <td>💡 <b>Problem Solver:</b></td>
-            <td>Enjoy solving complex problems and optimizing performance.</td>
-      </tr>
-      <tr>
-            <td>📚 <b>Lifelong Learner:</b></td>
-            <td>Continuously learning and exploring new technologies to stay updated.</td>
-      </tr>
-</table>
+***🌐 Web Developer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Experienced in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js.
+
+***📱 Mobile Developer:*** &ensp;&ensp;&ensp;Skilled in building responsive and intuitive mobile applications using Flutter and React Native.
+
+***🛠️ Backend Developer:***&ensp;&ensp;Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
+
+***💡 Problem Solver:*** &ensp;&ensp;&ensp;&ensp;&ensp;Enjoy solving complex problems and optimizing performance.
+
+***📚 Lifelong Learner:*** &ensp;&ensp;&ensp;&ensp;Continuously learning and exploring new technologies to stay updated.
 
 <br><br><br>
 
