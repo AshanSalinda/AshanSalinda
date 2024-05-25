@@ -11,7 +11,7 @@
 
 ***🛠️ &ensp;Backend Developer:***&ensp;&ensp;Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
 
-***🚀 &ensp;Forward Thinker:*** &ensp;&ensp;&ensp;&ensp;Thrives on creating innovative solutions and working on challenging projects.
+***🚀 &ensp;Forward Thinker:*** &ensp;&ensp;&ensp;&ensp;Taste for creating innovative solutions and embracing challenging projects.
 
 ***💡 &ensp;Problem Solver:*** &ensp;&ensp;&ensp;&ensp;&ensp;Enjoy solving complex problems and optimizing performance.
 
