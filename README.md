@@ -11,7 +11,7 @@
 
 ***🛠️ &ensp;Backend Developer:***&ensp;&ensp;Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
 
-***🛠️ &ensp;Tidy Programmer:***&ensp;&ensp;&ensp;Skilled in Python, Java, and C++, focusing on clean and efficient code.
+***🛠️ &ensp;Tidy Programmer:***&ensp;&ensp;&ensp;&ensp;Skilled in Python, Java, and C++, focusing on clean and efficient code.
 
 ***🚀 &ensp;Forward Thinker:*** &ensp;&ensp;&ensp;&ensp;Taste for creating innovative solutions and embracing challenging projects.
 
