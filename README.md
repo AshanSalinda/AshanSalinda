@@ -11,7 +11,7 @@
 
 ***🛠️ &ensp;Backend Developer:***&ensp;&ensp;Proficient in Node.js, Express, and working with databases like MongoDB and PostgreSQL.
 
-***🖥️ &ensp;Tidy Programmer:*** &ensp;&ensp;&ensp;Skilled in Python, Java, and C++, focusing on clean and efficient code.
+***🖥️ &ensp;Programmer:*** &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Skilled in Python, Java, and C++, focusing on clean and efficient code.
 
 ***🎨 &ensp;UI/UX Designer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Crafting seamless and intuitive user experiences with a touch of creativity.
 
