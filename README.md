@@ -13,7 +13,7 @@
 
 ***🖥️ &ensp;Programmer:*** &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Skilled in Python, Java, and C++, focusing on clean and efficient code.
 
-***🎨 &ensp;UI/UX Designer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Crafting seamless and intuitive user experiences with a touch of creativity.
+***🎨 &ensp;UI/UX Designer:***&ensp;&ensp;&ensp;&ensp;&ensp;Crafting seamless and intuitive user experiences with a touch of creativity.
 
 ***🚀 &ensp;Forward Thinker:*** &ensp;&ensp;&ensp;&ensp;Taste for creating innovative solutions and embracing challenging projects.
 
