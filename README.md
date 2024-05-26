@@ -2,11 +2,15 @@
 <p align="center"><i>- A passionate developer and tech enthusiast -</i></p><br>
 
 <p align="center"><img src="images/coding.gif" alt="coding.gif" width="300px"/></p>
-<br>
+<br>    
 
-<p align="center">
+<span style="color:blue">some *blue* text</span>.
+
+<p align="center"><span style="color: red;">I'm A</span>
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=500&width=1280&height=80&lines=Web+Developer+;Mobile+Developer+;Backend+Developer+;Programmer+;UI/UX+Designer+;Forward+Thinker+;Problem+Solver+;Lifelong+Learner+"/>
 </p>
+
+## I'm A [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=75&pause=500&color=2CFF00&center=true&vCenter=true&random=false&width=1280&height=80&lines=Web+Developer+;Mobile+Developer+;Backend+Developer+;Programmer+;UI/UX+Designer+;Forward+Thinker+;Problem+Solver+;Lifelong+Learner+)](https://git.io/typing-svg)
 
 ***🌐 &ensp;Web Developer:*** &ensp;&ensp;&ensp;&ensp;&ensp;Experienced in HTML, CSS, JavaScript, and modern frameworks like React.js.
 
