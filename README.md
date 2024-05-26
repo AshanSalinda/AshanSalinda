@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><h1 align="center">I'm A</h1>
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=500&width=1280&height=80&lines=Web+Developer+;Mobile+Developer+;Backend+Developer+;Programmer+;UI/UX+Designer+;Forward+Thinker+;Problem+Solver+;Lifelong+Learner+"/>
 </p><br>  
 
