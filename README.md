@@ -81,7 +81,7 @@
       <a href="https://linkedin.com/in/ashansalinda" target="blank">
           <img align="center" src="images/linked-in.svg"
           alt="linkedin" height="30" width="40" /></a>&nbsp;
-      <a href="https://facebook.com/ashan.salinda.58" target="blank">
+      <a href="https://www.facebook.com/fb.ashansalinda" target="blank"> 
           <img align="center" src="images/facebook.svg"
           alt="facebook" height="30" width="40" /></a>&nbsp;&nbsp;
       <a href="mailto:ashansalinda5@gmail.com" target="blank">
