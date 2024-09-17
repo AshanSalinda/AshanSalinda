@@ -27,10 +27,14 @@
 
 <br><br>
 
-<h2 align="left">Languages and Tools :</h2><br><br>
+<h2 align="left">Skills :</h2><br><br>
 
 <p align="left">         
-      <img src="images/arduino.svg" alt="arduino" width="40" height="40">
+     
+</p><br>
+
+<p align="center">
+    <img src="images/arduino.svg" alt="arduino" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="images/Blender.png" alt="blender" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,9 +44,6 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="images/css3.svg" alt="css3" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p><br>
-
-<p align="center">
       <img src="images/figma.svg" alt="figma" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="images/firebase.svg" alt="firebase" width="40" height="40">
@@ -53,10 +54,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="images/java.svg" alt="java" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p><br>
-
-<p align="right">
-      <img src="images/javascript.svg" alt="javascript" width="40" height="40">
+    <img src="images/javascript.svg" alt="javascript" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="images/mysql.svg" alt="mysql" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,6 +64,10 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="images/springio.svg" alt="spring" width="40" height="40">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p><br>
+
+<p align="right">
+      
 </p>
 
 <br><br><br><br>
