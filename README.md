@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there!, I'm Ashan Salinda</h1>
+<h1 align="center"><img src="images/wave.gif" alt="waving" width="30" height="30"> Hi there!, I'm Ashan Salinda</h1>
 <p align="center"><i>- A passionate developer and tech enthusiast -</i></p><br>
 
 <p align="center"><img src="images/coding.gif" alt="coding.gif" width="300px"/></p>
@@ -83,7 +83,7 @@
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashansalinda&theme=gruvbox" alt="ashansalinda" /></p><br><br>     
         
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=transparent&show_icons=true&locale=en&layout=compact" alt="ashansalinda" /> </p><br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=transparent&show_icons=true&locale=en&layout=donut" alt="ashansalinda" /> </p><br><br>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=transparent&show_icons=true&locale=en" alt="ashansalinda"/></p><br>
 
