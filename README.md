@@ -41,7 +41,7 @@
     <img src="images/php.png" alt="php" width="45" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/nodejs.png" alt="node" width="35" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/springio.svg" alt="spring" width="35" height="35">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/docker.png" alt="docker" width="35" height="35">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/docker.png" alt="docker" width="40" height="45">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/mysql.png" alt="mysql" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/postgresql.png" alt="postgresql" width="35" height="35">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/mssql.png" alt="mssql" width="60" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
