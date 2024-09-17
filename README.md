@@ -33,7 +33,7 @@
      
 </p><br>
 
-<div style="display: flex; justify-content: space-between">
+<div align="center">
     <img src="images/arduino.svg" alt="arduino" width="40" height="40">
       <img src="images/Blender.png" alt="blender" width="40" height="40">
       <img src="images/bootstrap.svg" alt="bootstrap" width="40" height="40">
