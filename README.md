@@ -45,7 +45,7 @@
     <img src="images/node.png" alt="node" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/springio.svg" alt="spring" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/mysql.svg" alt="mysql" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/postgresql.svg" alt="postgresql" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/postgresql.png" alt="postgresql" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/mssql.svg" alt="mssql" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/mongodb.svg" alt="mongodb" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/arduino.svg" alt="arduino" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
