@@ -29,10 +29,6 @@
 
 <h2 align="left">Skills :</h2><br><br>
 
-<p align="left">         
-     
-</p><br>
-
 <div align="center">
     <img src="images/c.svg" alt="C language" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/java.svg" alt="java" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,8 +37,8 @@
     <img src="images/html5.svg" alt="html5" width="45" height="45">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/css3.svg" alt="css3" width="45" height="45">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/reactjs.png" alt="react" width="45" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/next.png" alt="next" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/nodejs.png" alt="node" width="38" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/next.png" alt="next" width="45" height="45">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/nodejs.png" alt="node" width="35" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/springio.svg" alt="spring" width="35" height="35">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/mysql.png" alt="mysql" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/postgresql.png" alt="postgresql" width="35" height="35">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,11 +49,7 @@
     <img src="images/figma.svg" alt="figma" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/firebase.svg" alt="firebase" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/git.svg" alt="git" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
-</div><br>
-
-<p align="right">
-      
-</p>
+</div>
 
 <br><br><br><br>
 
