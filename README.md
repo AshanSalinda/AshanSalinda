@@ -83,7 +83,7 @@
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashansalinda&theme=gruvbox" alt="ashansalinda" /></p><br><br>     
         
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=transparent&show_icons=true&locale=en&layout=donut" alt="ashansalinda" /> </p><br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashansalinda&theme=transparent&show_icons=true&locale=en&layout=donut&langs_count=8" alt="ashansalinda" /> </p><br><br>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ashansalinda&theme=transparent&show_icons=true&locale=en" alt="ashansalinda"/></p><br>
 
