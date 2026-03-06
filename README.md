@@ -58,7 +58,7 @@
 
 <h2>Connect with me :</h2>
 <p align="center">
-      <a href="https://ashansalinda.github.io/web" target="blank">
+      <a href="https://ashansalinda.vercel.app/" target="blank">
           <img align="center" src="images/ashan.png"
           alt="ashansalinda" height="35" width="35" /></a>&nbsp;
       <a href="https://linkedin.com/in/ashansalinda" target="blank">
